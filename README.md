@@ -4,10 +4,10 @@ A web application to manage farm stock: items, warehouses, suppliers, batches, s
 
 ## Team Members:
 
-1. Tahmina Aktar Neha (TN) - 2220592
-2. Maksuratun Rashmi (MR) - 2220871
-3. Maimuna Akter Tripty (MT) - 2221582
-4. Mehnaj Akter (MA) - 2222624
+1. Tahmina Aktar Neha (TN) - 2220592 ([@TahminaAktarNeha30](https://github.com/TahminaAktarNeha30))
+2. Maksuratun Rashmi (MR) - 2220871 ([@rashmii01](https://github.com/rashmii01))
+3. Maimuna Akter Tripty (MT) - 2221582 ([@maimunaaaaa](https://github.com/maimunaaaaa))
+4. Mehnaj Akter (MA) - 2222624 ([@Mehnaj14](https://github.com/Mehnaj14))
 
 ### Course Information:
 **CSE451: Software Engineering, Section 02, Autumn 2026**  
@@ -28,13 +28,13 @@ Department of Computer Science & Engineering, Independent University, Bangladesh
   ```
 - Run command:
   ```bash
-  git clone https://github.com/TahminaAktarNeha30/agri-product.git
+  git clone https://github.com/TahminaAktarNeha30/Smart-agricultural-product-inventory-management-system.git
   ```
 
 ## 2. Navigate to the project directory commands
 - Navigate:
   ```bash
-  cd agri-product-main
+  cd Smart-agricultural-product-inventory-management-system
   ```
 - Open VS Code:
   ```bash
